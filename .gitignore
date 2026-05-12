@@ -17,7 +17,6 @@ results/*
 shell_files/wandb
 shell_files/wandb/*
 
-# Python 字节码缓存
 __pycache__/
 *.pyc
 images
