@@ -1,0 +1,27 @@
+### Example user template template
+### Example user template
+data
+data/*
+# IntelliJ project files
+.idea
+.idea/*
+*.iml
+out
+gen
+logs/*
+src/wandb
+src/wandb/*
+prediction_results/*
+evaluation_results/*
+results/*
+shell_files/wandb
+shell_files/wandb/*
+
+# Python 字节码缓存
+__pycache__/
+*.pyc
+images
+images/*
+test
+test/*
+*.md
